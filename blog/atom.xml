@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/meu-docsaurus/blog</id>
-    <title>Docusaurus_demo_site Blog</title>
+    <title>Desnecessauro Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/meu-docsaurus/blog"/>
-    <subtitle>Docusaurus_demo_site Blog</subtitle>
+    <subtitle>Desnecessauro Blog</subtitle>
     <icon>https://github.com/meu-docsaurus/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
