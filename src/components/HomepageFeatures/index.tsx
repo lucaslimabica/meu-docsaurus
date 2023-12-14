@@ -10,31 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Melhores Preços',
-    Svg: require('@site/static/img/undraw_personal_trainer_re_cnua.svg').default,
+    title: 'A Melhor mecânica',
+    Svg: require('@site/static/img/car.svg').default,
     description: (
       <>
-        Temos os melhores preços de suplemento da Europa, Cobrimos qualquer oferta.
+        Somos a melhor mecanica da regiao, somos bons demais.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Manutenção Rapida',
+    Svg: require('@site/static/img/time.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Vamos Entregar seu veiculo em otimas condiçoes em tempo record
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Melhor localizacõo',
+    Svg: require('@site/static/img/location.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Estamos bem localizados, Rua do aportel n 2313.
       </>
     ),
   },

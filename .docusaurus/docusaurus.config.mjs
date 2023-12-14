@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Craques Do Ginásino",
-  "tagline": "Esteja estre os melhores no ginásio",
+  "title": "Mecanica Dos Amigos",
+  "tagline": "A melhor mecanica dos amigos",
   "favicon": "img/favicon.ico",
   "url": "https://github.com",
   "baseUrl": "/meu-docsaurus/",
@@ -43,7 +43,7 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "Loja de Suplementos",
+      "title": "Automecanica dos amigos",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"
@@ -53,7 +53,7 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Guia de uso"
+          "label": "Guia De Serviços"
         },
         {
           "to": "/blog",
