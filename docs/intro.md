@@ -2,46 +2,38 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Guia de Serviços da Oficina Mecânica
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Vamos explorar informações sobre **serviços oferecidos por uma oficina mecânica**.
 
-## Getting Started
+## Introdução aos Serviços Automotivos
 
-Get started by **creating a new site**.
+Adquira conhecimento sobre os **diversos serviços automotivos** oferecidos por uma oficina mecânica e como eles podem manter seu veículo em ótimas condições de funcionamento.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### O que você precisa saber
 
-### What you'll need
+- As oficinas mecânicas prestam uma variedade de serviços para garantir o funcionamento e a segurança dos veículos.
+- Esses serviços incluem manutenção preventiva, reparos mecânicos, serviços de pneus, elétricos, funilaria, entre outros.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Tipos de Serviços Oferecidos
 
-## Generate a new site
+As oficinas mecânicas oferecem uma ampla gama de serviços, como:
 
-Generate a new Docusaurus site using the **classic template**.
+- **Manutenção Preventiva:** Trocas de óleo, inspeções regulares, substituição de peças desgastadas, etc.
+- **Reparos Mecânicos:** Reparos no motor, freios, suspensão, transmissão, direção, entre outros.
+- **Serviços de Pneus:** Alinhamento, balanceamento, troca e conserto de pneus.
+- **Serviços Elétricos e Eletrônicos:** Diagnósticos e reparos em sistemas elétricos, iluminação, bateria, entre outros.
+- **Serviços de Funilaria e Pintura:** Reparos estéticos, remoção de arranhões, pintura e restauração da carroceria.
 
-The classic template will automatically be added to your project after you run the command:
+## Priorizando a Segurança e Qualidade
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+É fundamental garantir que seu veículo receba serviços de alta qualidade para garantir segurança e desempenho. Por isso:
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+- Escolha oficinas confiáveis e com profissionais qualificados.
+- Utilize peças genuínas ou de qualidade equivalente para os reparos.
+- Mantenha a manutenção do veículo em dia para evitar problemas mecânicos.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+Lembre-se, a manutenção adequada prolonga a vida útil do seu veículo e garante a segurança nas estradas.
 
-## Start your site
+Para mais informações detalhadas sobre cada serviço automotivo, consulte um profissional especializado ou entre em contato conosco para agendar um serviço ou obter informações adicionais.
 
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.

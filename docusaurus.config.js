@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Craques Do Ginásino',
-  tagline: 'Esteja estre os melhores no ginásio',
+  title: 'Mecanica Dos Amigos',
+  tagline: 'A melhor mecanica dos amigos',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -65,7 +65,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Loja de Suplementos',
+        title: 'Automecanica dos amigos',
         logo: {
           alt: 'Logo Craques',
           src: 'img/logo.svg',
@@ -75,7 +75,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Guia de Uso',
+            label: 'Guia De Serviços',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
