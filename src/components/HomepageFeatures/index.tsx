@@ -10,12 +10,11 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Melhores Preços',
+    Svg: require('@site/static/img/undraw_personal_trainer_re_cnua.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Temos os melhores preços de suplemento da Europa, Cobrimos qualquer oferta.
       </>
     ),
   },
