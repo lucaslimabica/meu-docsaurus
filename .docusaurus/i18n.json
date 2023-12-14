@@ -1,17 +1,17 @@
 {
-  "defaultLocale": "en",
+  "defaultLocale": "pt-br",
   "locales": [
-    "en"
+    "pt-br"
   ],
   "path": "i18n",
-  "currentLocale": "en",
+  "currentLocale": "pt-br",
   "localeConfigs": {
-    "en": {
-      "label": "English",
+    "pt-br": {
+      "label": "Português (Brasil)",
       "direction": "ltr",
-      "htmlLang": "en",
+      "htmlLang": "pt-br",
       "calendar": "gregory",
-      "path": "en"
+      "path": "pt-br"
     }
   }
 }
