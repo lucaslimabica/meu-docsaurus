@@ -2,46 +2,37 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Guia de Suplementos Alimentares e Anabolizantes
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Vamos explorar informações sobre **suplementos alimentares e anabolizantes**.
 
-## Getting Started
+## Introdução aos Suplementos e Anabolizantes
 
-Get started by **creating a new site**.
+Adquira conhecimento sobre **diversos tipos de suplementos e anabolizantes** e como eles podem influenciar o desempenho físico e a saúde.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### O que você precisa saber
 
-### What you'll need
+- Os suplementos alimentares são produtos consumidos para complementar a dieta e podem incluir vitaminas, minerais, ervas, aminoácidos, entre outros.
+- Anabolizantes referem-se a substâncias que têm o potencial de aumentar a massa muscular e melhorar o desempenho atlético, mas seu uso inadequado pode ter sérios riscos à saúde.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Tipos de Suplementos
 
-## Generate a new site
+Existem várias categorias de suplementos alimentares, como:
 
-Generate a new Docusaurus site using the **classic template**.
+- **Proteínas:** Whey protein, caseína, proteína vegetal, etc.
+- **Aminoácidos:** BCAA, glutamina, entre outros.
+- **Vitaminas e Minerais:** Vitamina C, ferro, cálcio, etc.
+- **Ergogênicos:** Creatina, cafeína, beta-alanina, etc.
 
-The classic template will automatically be added to your project after you run the command:
+## Uso Responsável
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+É crucial entender que o uso de suplementos e anabolizantes deve ser feito com responsabilidade e orientação profissional. Além disso:
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+- Consulte um médico ou nutricionista antes de iniciar qualquer suplementação.
+- Verifique a procedência e qualidade dos produtos adquiridos.
+- Siga as instruções de dosagem recomendadas.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+Lembre-se, a saúde vem sempre em primeiro lugar.
 
-## Start your site
+Para mais informações detalhadas sobre cada tipo de suplemento ou anabolizante, é recomendado buscar fontes confiáveis e especializadas na área.
 
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
