@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Desnecessauro',
-  tagline: 'Jesse We Need To Cook',
+  title: 'Craques Do Ginásino',
+  tagline: 'Esteja estre os melhores no ginásio',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
