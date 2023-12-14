@@ -19,12 +19,12 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Nossa Creatina vai te deixar "empolgado" pro treino.',
+    Svg: require('@site/static/img/undraw_working_out_re_nhkg.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Nossa creatina tem uns ingredientes diferenciados, só quem provou 
+        sabe da nossa qualidade.
       </>
     ),
   },
