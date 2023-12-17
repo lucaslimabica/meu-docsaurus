@@ -54,17 +54,11 @@
         <category label="docusaurus" term="docusaurus"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>https://github.com/meu-docsaurus/blog/first-blog-post</id>
-        <link href="https://github.com/meu-docsaurus/blog/first-blog-post"/>
+        <title type="html"><![CDATA[Clientes]]></title>
+        <id>https://github.com/meu-docsaurus/blog/documentacao-clientes</id>
+        <link href="https://github.com/meu-docsaurus/blog/documentacao-clientes"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
-        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
-        <author>
-            <name>Gao Wei</name>
-            <uri>https://github.com/wgao19</uri>
-        </author>
-        <category label="hola" term="hola"/>
-        <category label="docusaurus" term="docusaurus"/>
+        <summary type="html"><![CDATA[Criação de Cadastro]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="criação-de-cadastro">Criação de Cadastro<a href="#criação-de-cadastro" class="hash-link" aria-label="Link direto para Criação de Cadastro" title="Link direto para Criação de Cadastro">​</a></h2><p>Criamos em nossa base de dados um cadastro completo seu, para que forneça <em>uma vez</em> suas informações e possa usar sempre o nosso sistema com <em>máxima praticidade</em>.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="retorno-de-informações">Retorno de Informações<a href="#retorno-de-informações" class="hash-link" aria-label="Link direto para Retorno de Informações" title="Link direto para Retorno de Informações">​</a></h2><p>Uma funcionalidade interna que nos retorna de maneira <em>ágil</em> e <em>útil</em>, os dados de nossos clientes cadastrados na base de dados.</p>]]></content>
     </entry>
 </feed>
