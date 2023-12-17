@@ -29,8 +29,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'pt',
-    locales: ['pt'],
+    defaultLocale: 'pt-br',
+    locales: ['pt-br'],
   },
 
   presets: [
@@ -67,7 +67,7 @@ const config = {
       navbar: {
         title: 'Automecanica dos amigos',
         logo: {
-          alt: 'Logo Craques',
+          alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -92,7 +92,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Guia de Uso',
+                label: 'Tutorial',
                 to: '/docs/intro',
               },
             ],
@@ -128,7 +128,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Craques do Ginásio S/A 2023-24.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Meu Portifólio, S/A Feito Com Café.`,
       },
       prism: {
         theme: lightCodeTheme,
