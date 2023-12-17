@@ -1,8 +1,6 @@
 ---
 slug: welcome
 title: Nossas Funcionalidades
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
 ---
 
 ## Nossa mecânica possui um sistema integrado único, que facilita e automatiza toda a linha de trabalho interna e o atendimento ao cliente!
